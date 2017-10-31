@@ -1,0 +1,1 @@
+Ctrl+Shift+J  - join to lines into one and removes unnecessary spaces
